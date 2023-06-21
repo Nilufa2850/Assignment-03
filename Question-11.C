@@ -6,7 +6,7 @@ examination or failed.*/
 int main()
 {
     float a,b,c,d,e; 
-    printf("Enter enter marks of 5 subjects : ");
+    printf("Enter marks of 5 subjects : ");
     scanf("%f%f%f%f%f",&a,&b,&c,&d,&e);
 
     if (a>=33 && b>=33 && c>=33 && d>=33 && e>=33)
