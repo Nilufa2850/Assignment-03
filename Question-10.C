@@ -4,7 +4,7 @@ user. Now calculate and print profit or loss percentage.*/
 #include<stdio.h>
 int main()
 {
-    float cp , sp , percentage;
+    float cp , sp ;
     printf("Enter enter cost & selling prices : ");
     scanf("%f%f",&cp,&sp);
 
